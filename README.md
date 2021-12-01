@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is simple website project for showing how to use Git
+This is simple website project for showing how to use Git. Adding a line for rebasing example
 
 ## Introduction
 
