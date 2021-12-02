@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is simple website project for showing how to use Git. Adding a line for rebasing example, then more changes from myfeature branch too.
+This is simple website project for showing how to use Git. Emergency fix after our stash.
 
 ## Introduction
 
